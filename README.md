@@ -1,3 +1,4 @@
+2018年10月12日17:58:36
 spring操作ES
     1 编写接口继承ElasticsearchRepository 进行各项操作
     2，直接构造ElasticsearchTemplate，(可以自己构造，也可以使用springboot提供的)
@@ -16,3 +17,4 @@ https://www.elastic.co/products/elasticsearch
 官网文档：
 https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html
 													@yiwuxia
+													
